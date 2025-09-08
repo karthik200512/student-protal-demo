@@ -1,2 +1,2 @@
-# student-protal-demo
+# student-portal-demo
 student portal application
