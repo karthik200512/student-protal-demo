@@ -1,0 +1,11 @@
+student name 	: Putta Karthik
+DOB 		: 12/05/2005
+Branch 		: Bsc(Data Science)
+roll no 	: 24
+SUc code 	: 2342230220		
+phone no 	: 9346425527
+hall ticket no	: 723127305059
+father's name 	: Putta srinuvasa rao
+mother's name 	: putta sravani
+maruital status	: not married
+
