@@ -7,5 +7,6 @@ phone no 	: 9346425527
 hall ticket no	: 723127305059
 father's name 	: Putta srinuvasa rao
 mother's name 	: putta sravani
-maruital status	: not married
+maritual status	: not married
+
 
